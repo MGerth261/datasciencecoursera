@@ -1,0 +1,15 @@
+---
+title: "Hello World"
+author: "MG"
+date: "2024-02-21"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+## This is a markdown
+
+```{r HelloWorld}
+print("Hello World")
+```
+
